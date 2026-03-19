@@ -6518,48 +6518,6 @@
       "type": "TWR",
       "pre": ["WMSA"],
       "colours": [{ "hex": "#000200" }]
-    },
-    "PLA": {
-      "callsign": "Paya Lebar Approach",
-      "frequency": "127.700",
-      "type": "APP",
-      "pre": ["WSAP"],
-      "colours": [{ "hex": "#000093" }]
-    },
-    "SR1": {
-      "callsign": "Singapore Radar",
-      "frequency": "134.400",
-      "type": "CTR",
-      "pre": ["WSJC"],
-      "colours": [{ "hex": "#fa8c00" }]
-    },
-    "SR2": {
-      "callsign": "Singapore Radar",
-      "frequency": "133.250",
-      "type": "CTR",
-      "pre": ["WSJC"],
-      "colours": [{ "hex": "#f38c00" }]
-    },
-    "SR3": {
-      "callsign": "Singapore Radar",
-      "frequency": "133.800",
-      "type": "CTR",
-      "pre": ["WSJC"],
-      "colours": [{ "hex": "#e28c00" }]
-    },
-    "SR": {
-      "callsign": "Singapore Radar",
-      "frequency": "123.700",
-      "type": "CTR",
-      "pre": ["WSJC"],
-      "colours": [{ "hex": "#ff8c00" }]
-    },
-    "SSA": {
-      "callsign": "Singapore Approach",
-      "frequency": "124.600",
-      "type": "APP",
-      "pre": ["WSSS"],
-      "colours": [{ "hex": "#000044" }]
     }
   },
   "callsigns": {
