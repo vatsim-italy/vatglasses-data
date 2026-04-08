@@ -95,7 +95,7 @@
             ]
         },
         {
-            "id": "North",
+            "id": "North (Low)",
             "group": "CTR",
             "owner": [
                 "BBN",
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "id": "North",
+            "id": "North (Low)",
             "group": "CTR",
             "owner": [
                 "BBN",
@@ -136,8 +136,8 @@
             ],
             "sectors": [
                 {
-                    "min": 0,
-                    "max": 344,
+                    "min": 45,
+                    "max": 244,
                     "points": [
                         ["280358","0485905"],
                         ["275000","0490800"],
@@ -188,7 +188,7 @@
             ]
         },
         {
-            "id": "East",
+            "id": "East (Low)",
             "group": "CTR",
             "owner": [
                 "BBE",
@@ -247,7 +247,7 @@
             ]
         },
         {
-            "id": "Central (High)",
+            "id": "Central (Super)",
             "group": "CTR",
             "owner": [
                 "BB1",
@@ -332,7 +332,7 @@
             ]
         },
         {
-            "id": "Central",
+            "id": "Central (High)",
             "group": "CTR",
             "owner": [
                 "BBCH",
@@ -414,7 +414,20 @@
                         ["270838","0495202"],
                         ["265644","0500434"]
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "id": "Central (Low)",
+            "group": "CTR",
+            "owner": [
+                "BBCL",
+                "BBCH",
+                "BB1",
+                "fss/GULFE",
+                "fss/GULF"
+            ],
+            "sectors": [
                 {
                     "min": 245,
                     "max": 294,
@@ -492,7 +505,7 @@
             ]
         },
         {
-            "id": "Central",
+            "id": "Central (Low)",
             "group": "CTR",
             "owner": [
                 "BBCL",
@@ -502,7 +515,7 @@
             "sectors": [
                 {
                     "min": 170,
-                    "max": 294,
+                    "max": 244,
                     "points": [
                         ["253400","0503319"],
                         ["253434","0503403"],
