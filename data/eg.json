@@ -11437,16 +11437,19 @@
     },
     {
       "id": "Galloway (North)",
-      "group": "ST",
+      "group": "TMA",
       "docs": [
-        "ST"
+        "TMA"
       ],
       "owner": [
-        "STW",
-        "ST",
-        "SL",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "SCL",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -11529,16 +11532,19 @@
     },
     {
       "id": "Galloway (South)",
-      "group": "ST",
+      "group": "TMA",
       "docs": [
-        "ST"
+        "TMA"
       ],
       "owner": [
-        "STW",
-        "ST",
-        "SL",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "SCL",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -11644,9 +11650,9 @@
     },
     {
       "id": "Galloway (South)",
-      "group": "ST",
+      "group": "TMA",
       "docs": [
-        "ST"
+        "TMA"
       ],
       "fua": [
         {
@@ -11661,11 +11667,14 @@
         }
       ],
       "owner": [
-        "STW",
-        "ST",
-        "SL",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "SCL",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -11702,16 +11711,19 @@
     },
     {
       "id": "Talla (North)",
-      "group": "ST",
+      "group": "TMA",
       "docs": [
-        "ST"
+        "TMA"
       ],
       "owner": [
-        "STE",
-        "ST",
-        "SL",
-        "SD",
-        "SWD",
+        "TLA",
+        "TMA",
+        "GTA",
+        "SCL",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -11856,9 +11868,9 @@
     },
     {
       "id": "Talla (North)",
-      "group": "ST",
+      "group": "TMA",
       "docs": [
-        "ST"
+        "TMA"
       ],
       "fua": [
         {
@@ -11923,11 +11935,14 @@
         }
       ],
       "owner": [
-        "STE",
-        "ST",
-        "SL",
-        "SD",
-        "SWD",
+        "TLA",
+        "TMA",
+        "GTA",
+        "SCL",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -11947,16 +11962,19 @@
     },
     {
       "id": "Talla (South)",
-      "group": "ST",
+      "group": "TMA",
       "docs": [
-        "ST"
+        "TMA"
       ],
       "owner": [
-        "STE",
-        "ST",
-        "SL",
-        "SD",
-        "SWD",
+        "TLA",
+        "TMA",
+        "GTA",
+        "SCL",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -12033,9 +12051,9 @@
     },
     {
       "id": "Talla (South)",
-      "group": "ST",
+      "group": "TMA",
       "docs": [
-        "ST"
+        "TMA"
       ],
       "fua": [
         {
@@ -12050,11 +12068,14 @@
         }
       ],
       "owner": [
-        "STE",
-        "ST",
-        "SL",
-        "SD",
-        "SWD",
+        "TLA",
+        "TMA",
+        "GTA",
+        "SCL",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -12079,9 +12100,9 @@
     },
     {
       "id": "Talla (South)",
-      "group": "ST",
+      "group": "TMA",
       "docs": [
-        "ST"
+        "TMA"
       ],
       "fua": [
         {
@@ -12146,11 +12167,14 @@
         }
       ],
       "owner": [
-        "STE",
-        "ST",
-        "SL",
-        "SD",
-        "SWD",
+        "TLA",
+        "TMA",
+        "GTA",
+        "SCL",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -12176,10 +12200,10 @@
         "SWC"
       ],
       "owner": [
-        "SL",
-        "SR",
+        "SCL",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -12294,11 +12318,11 @@
         "SWC"
       ],
       "owner": [
-        "SL",
+        "SCL",
         "SC",
         "SHC",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -12363,7 +12387,7 @@
         "SEH"
       ],
       "owner": [
-        "SL",
+        "SCL",
         "SEH",
         "SHC",
         "SN",
@@ -12417,11 +12441,12 @@
       "group": "SS",
       "docs": [
         "SWC",
-        "SM"
+        "GRP"
       ],
       "owner": [
         "TAY",
-        "SL",
+        "SCL",
+        "GRP",
         "SS",
         "SE",
         "S"
@@ -12487,7 +12512,7 @@
       "id": "Tay",
       "group": "SS",
       "docs": [
-        "SM"
+        "GRP"
       ],
       "fua": [
         {
@@ -12541,7 +12566,8 @@
       ],
       "owner": [
         "TAY",
-        "SL",
+        "SCL",
+        "GRP",
         "SS",
         "SE",
         "S"
@@ -12689,7 +12715,7 @@
       "id": "Tay",
       "group": "SS",
       "docs": [
-        "SM"
+        "GRP"
       ],
       "fua": [
         {
@@ -12707,7 +12733,8 @@
       ],
       "owner": [
         "TAY",
-        "SL",
+        "SCL",
+        "GRP",
         "SS",
         "SE",
         "S"
@@ -12763,11 +12790,12 @@
       "id": "Tay",
       "group": "SS",
       "docs": [
-        "SM"
+        "GRP"
       ],
       "owner": [
         "TAY",
-        "SL",
+        "SCL",
+        "GRP",
         "SS",
         "SE",
         "S"
@@ -12986,12 +13014,13 @@
       ]
     },
     {
-      "id": "Montrose (North)",
+      "id": "Grampian",
       "group": "SS",
       "docs": [
-        "SM"
+        "GRP"
       ],
       "owner": [
+        "GRP",
         "SS",
         "SE",
         "S"
@@ -13000,80 +13029,147 @@
         {
           "min": 255,
           "points": [
-            ["571504","-0053633"],
-            ["571440","-0042816"],
-            ["572337","-0041404"],
-            ["571126","-0021409"],
-            ["570952","-0015347"],
+            ["573929","-0061619"],
+            ["572631","-0041115"],
+            ["570951","-0015346"],
             ["561444","-0013308"],
-            ["552700","-0011023"],          
-            ["552700","-0022627"],
-            ["555335","-0024931"],
-            ["561837","-0033406"],
-            ["561600","-0050520"],
-            ["571504","-0053633"]
+            ["552700","-0011023"],
+            ["553554","-0032945"],
+            ["554102","-0051929"],
+            ["555650","-0052642"],
+            ["561602","-0053538"],
+            ["571509","-0060405"],
+            ["573929","-0061619"]
           ]
         }
       ]
     },
     {
-      "id": "Montrose (South)",
-      "group": "SS",
+      "id": "Borders",
+      "group": "BDS",
       "docs": [
-        "SM"
+        "BDS"
       ],
       "owner": [
+        "BDS",
+        "SWB",
         "SS",
         "SE",
         "S"
       ],
       "sectors": [
         {
-          "min": 285,
+          "min": 355,
           "points": [
+            ["554102","-0051929"],
+            ["553554","-0032945"],
             ["552700","-0011023"],
-            ["550516","-0010020"],
-            ["540139","0002720"],
-            ["540146","-0001712"],
-            ["540147","-0013515"],
-            ["541153","-0014543"],
-            ["541500","-0014856"],
-            ["543324","-0015629"],
-            ["544252","-0020024"],
-            ["551113","-0021301"],
-            ["552700","-0022627"],
-            ["552700","-0011023"]
-          ]
-        },
-        {
-          "max": 284,
-          "min": 255,
-          "points": [
-            ["552700","-0011023"],
-            ["550516","-0010020"],
-            ["540139","0002720"],
-            ["540146","-0001712"],
-            ["542559","-0004455"],
-            ["541557","-0011700"],
-            ["543132","-0013923"],
-            ["543324","-0015629"],
-            ["543405","-0020304"],
-            ["544252","-0020024"],
-            ["551113","-0021301"],
-            ["552700","-0022627"],
-            ["552700","-0011023"]
+            ["550557","-0004538"],
+            ["550000","-0003844"],
+            ["540141","0002719"],
+            ["540144","0001446"],
+            ["540146","0000600"],
+            ["540148","-0004948"],
+            ["540119","-0013456"],
+            ["540115","-0013943"],
+            ["540112","-0014435"],
+            ["540111","-0014811"],
+            ["540110","-0015839"],
+            ["540108","-0020040"],
+            ["540058","-0021722"],
+            ["540044","-0022608"],
+            ["540010","-0024832"],
+            ["540000","-0031337"],
+            ["535959","-0032208"],
+            ["550947","-0050440"],
+            ["554102","-0051929"]
           ]
         }
+      ]
+    },
+    {
+      "id": "Pennine",
+      "group": "BDS",
+      "docs": [
+        "BDS"
+      ],
+      "owner": [
+        "PEN",
+        "BDS",
+        "SWB",
+        "SS",
+        "SE",
+        "S"
+      ],
+      "sectors": [
+        {
+          "max": 354,
+          "min": 255,
+          "points": [
+            ["553554","-0032945"],
+            ["552700","-0011023"],
+            ["550557","-0004538"],
+            ["550000","-0003844"],
+            ["540141","0002719"],
+            ["540144","0001446"],
+            ["540146","0000600"],
+            ["540148","-0004948"],
+            ["540119","-0013456"],
+            ["540115","-0013943"],
+            ["540112","-0014435"],
+            ["540111","-0014811"],
+            ["545911","-0023303"],
+            ["552552","-0032808"],
+            ["553554","-0032945"]
+          ]
+        },
+      ]
+    },
+    {
+      "id": "Solway",
+      "group": "BDS",
+      "docs": [
+        "BDS"
+      ],
+      "owner": [
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
+        "SS",
+        "SE",
+        "S"
+      ],
+      "sectors": [
+        {
+          "max": 354,
+          "min": 255,
+          "points": [
+            ["554102","-0051929"],
+            ["553554","-0032945"],
+            ["552552","-0032808"],
+            ["545911","-0023303"],
+            ["540111","-0014811"],
+            ["540110","-0015839"],
+            ["540108","-0020040"],
+            ["540058","-0021722"],
+            ["540044","-0022608"],
+            ["540010","-0024832"],
+            ["540000","-0031337"],
+            ["535959","-0032208"],
+            ["550947","-0050440"],
+            ["554102","-0051929"]
+          ]
+        },
       ]
     },
     {
       "id": "Tyne",
       "group": "SS",
       "docs": [
-        "SH"
+        "SS"
       ],
       "owner": [
-        "SH",
         "SS",
         "SE",
         "S"
@@ -13101,10 +13197,10 @@
       "id": "Humber",
       "group": "SS",
       "docs": [
-        "SH"
+        "HUM"
       ],
       "owner": [
-        "SH",
+        "HUM",
         "SS",
         "SE",
         "S"
@@ -13155,101 +13251,15 @@
       ]
     },
     {
-      "id": "Deancross (North)",
-      "group": "SD",
-      "docs": [
-        "SD"
-      ],
-      "owner": [
-        "SD",
-        "SWD",
-        "SS",
-        "S"
-      ],
-      "sectors": [
-        {
-          "min": 255,
-          "points": [
-            ["561600","-0050520"],
-            ["561837","-0033406"],
-            ["555335","-0024931"],
-            ["552700","-0022627"],
-            ["551113","-0021301"],
-            ["550000","-0020729"],
-            ["550000","-0032811"],
-            ["553121","-0035809"],
-            ["554700","-0053041"],
-            ["561600","-0050520"]
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Deancross (South)",
-      "group": "SD",
-      "docs": [
-        "SD"
-      ],
-      "owner": [
-        "SD",
-        "SWD",
-        "SS",
-        "S"
-      ],
-      "sectors": [
-        {
-          "min": 285,
-          "points": [
-            ["554700","-0053041"],
-            ["553121","-0035809"],
-            ["550000","-0032811"],
-            ["550000","-0020729"],
-            ["541500","-0014856"],
-            ["540147","-0013515"],
-            ["540043","-0022744"],
-            ["541500","-0023948"],
-            ["543000","-0025233"],
-            ["543000","-0033538"],
-            ["542027","-0033404"],
-            ["550540","-0045834"],
-            ["553419","-0054133"],
-            ["554700","-0053041"]
-          ]
-        },
-        {
-          "max": 284,
-          "min": 255,
-          "points": [
-            ["554700","-0053041"],
-            ["553121","-0035809"],
-            ["550000","-0032811"],
-            ["550000","-0020729"],
-            ["544252","-0020024"],
-            ["543405","-0020304"],
-            ["541519","-0020855"],
-            ["541500","-0021000"],
-            ["541500","-0021843"],
-            ["541500","-0023326"],
-            ["541500","-0023948"],
-            ["541501","-0033310"],
-            ["542027","-0033404"],
-            ["550540","-0045834"],
-            ["553419","-0054133"],
-            ["554700","-0053041"]
-          ]
-        }
-      ]
-    },
-    {
       "id": "Rathlin (West)",
       "group": "SW",
       "docs": [
         "SW"
       ],
       "owner": [
-        "SR",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -13279,10 +13289,9 @@
         "SW"
       ],
       "owner": [
-        "SRE",
-        "SR",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -13358,10 +13367,10 @@
         "SW"
       ],
       "owner": [
-        "SC",
+        "CEN",
         "SHC",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -13387,8 +13396,8 @@
         "SEH"
       ],
       "owner": [
-        "SL",
-        "SEH",
+        "SCL",
+        "HEB",
         "SHC",
         "SN",
         "SE",
@@ -13417,10 +13426,10 @@
       "id": "Hebrides (High)",
       "group": "SN",
       "docs": [
-        "SEH"
+        "HEB"
       ],
       "owner": [
-        "SEH",
+        "HEB",
         "SHC",
         "SN",
         "SE",
@@ -13453,7 +13462,7 @@
         "SN"
       ],
       "owner": [
-        "SL",
+        "SCL",
         "SN",
         "SE",
         "S"
@@ -13861,17 +13870,16 @@
     },
     {
       "id": "Antrim",
-      "group": "SA",
+      "group": "ANT",
       "docs": [
         "SA"
       ],
       "owner": [
-        "SA",
-        "SL",
-        "SRE",
-        "SR",
+        "ANT",
+        "SCL",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -14978,11 +14986,10 @@
       "owner": [
         "AAF",
         "AAR",
-        "SA",
-        "SRE",
-        "SR",
+        "ANT",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S",
         "AAT"
       ],
@@ -15076,11 +15083,10 @@
       "owner": [
         "AAF",
         "AAR",
-        "SA",
-        "SRE",
-        "SR",
+        "ANT",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -15138,11 +15144,10 @@
       "owner": [
         "AAR",
         "AAF",
-        "SA",
-        "SRE",
-        "SR",
+        "ANT",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -15216,11 +15221,10 @@
         "ACR",
         "AAR",
         "AAF",
-        "SA",
-        "SRE",
-        "SR",
+        "ANT",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S",
         "ACT"
       ],
@@ -15270,11 +15274,10 @@
         "ACR",
         "AAR",
         "AAF",
-        "SA",
-        "SRE",
-        "SR",
+        "ANT",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ],
       "sectors": [
@@ -19424,16 +19427,19 @@
       "id": "Edinburgh",
       "group": "APS",
       "docs": [
-        "ST",
+        "TMA",
         "SM"
       ],
       "owner": [
         "PHF",
         "PHR",
-        "STE",
-        "ST",
-        "SD",
-        "SWD",
+        "TLA",
+        "TMA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S",
         "PHT"
@@ -19521,16 +19527,19 @@
       "id": "Edinburgh",
       "group": "APS",
       "docs": [
-        "ST",
+        "TMA",
         "SM"
       ],
       "owner": [
         "PHF",
         "PHR",
-        "STE",
-        "ST",
-        "SD",
-        "SWD",
+        "TLA",
+        "TMA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -19672,16 +19681,19 @@
       "id": "Edinburgh",
       "group": "APS",
       "docs": [
-        "ST",
+        "TMA",
         "SM"
       ],
       "owner": [
         "PHR",
         "PHF",
-        "STE",
-        "ST",
-        "SD",
-        "SWD",
+        "TLA",
+        "TMA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -19906,9 +19918,9 @@
       "group": "APP",
       "owner": [
         "AEA",
-        "SR",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
     ],
       "sectors": [
@@ -21443,17 +21455,20 @@
       "id": "Glasgow",
       "group": "APS",
       "docs": [
-        "ST",
-        "SA",
+        "TMA",
+        "ANT",
         "SWC"
       ],
       "owner": [
         "PFF",
         "PFR",
-        "STW",
-        "ST",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S",
         "PFT"
@@ -21479,17 +21494,20 @@
       "id": "Glasgow",
       "group": "APS",
       "docs": [
-        "ST",
-        "SA",
+        "TMA",
+        "ANT",
         "SWC"
       ],
       "owner": [
         "PFF",
         "PFR",
-        "STW",
-        "ST",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -21542,17 +21560,20 @@
       "id": "Glasgow",
       "group": "APS",
       "docs": [
-        "ST",
-        "SA",
+        "TMA",
+        "ANT",
         "SWC"
       ],
       "owner": [
         "PFR",
         "PFF",
-        "STW",
-        "ST",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -21665,7 +21686,7 @@
       "id": "Ronaldsway",
       "group": "APS",
       "docs": [
-        "SA",
+        "ANT",
         "MW"
       ],
       "owner": [
@@ -21756,7 +21777,7 @@
       "id": "Ronaldsway",
       "group": "APS",
       "docs": [
-        "SA",
+        "ANT",
         "MW"
       ],
       "owner": [
@@ -21907,7 +21928,7 @@
       "id": "Ronaldsway",
       "group": "APS",
       "docs": [
-        "SA",
+        "ANT",
         "MW"
       ],
       "owner": [
@@ -22303,7 +22324,7 @@
       "id": "Ronaldsway",
       "group": "APS",
       "docs": [
-        "SA",
+        "ANT",
         "MW"
       ],
       "owner": [
@@ -22317,12 +22338,11 @@
         "LNW",
         "LN",
         "L",
-        "SA",
-        "SL",
-        "SRE",
-        "SR",
+        "ANT",
+        "SCL",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
     ],
       "sectors": [
@@ -26880,17 +26900,21 @@
       "id": "Prestwick",
       "group": "APS",
       "docs": [
-        "ST",
-        "SA",
+        "TMA",
+        "ANT",
         "SWC"
       ],
       "owner": [
         "PKF",
         "PKR",
-        "STW",
-        "ST",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S",
         "PKT"
@@ -26966,17 +26990,20 @@
       "id": "Prestwick",
       "group": "APS",
       "docs": [
-        "ST",
-        "SA",
+        "TMA",
+        "ANT",
         "SWC"
       ],
       "owner": [
         "PKF",
         "PKR",
-        "STW",
-        "ST",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -27101,17 +27128,20 @@
       "id": "Prestwick",
       "group": "APS",
       "docs": [
-        "ST",
-        "SA",
+        "TMA",
+        "ANT",
         "SWC"
       ],
       "owner": [
         "PKR",
         "PKF",
-        "STW",
-        "ST",
-        "SD",
-        "SWD",
+        "GAL",
+        "TMA",
+        "GTA",
+        "SOL",
+        "PEN",
+        "BDS",
+        "SWB",
         "SS",
         "S"
       ],
@@ -29518,15 +29548,15 @@
       "name": "Scottish",
       "colour": "#3063f0"
     },
-    "SD": {
+    "BDS": {
       "name": "Scottish",
       "colour": "#309df0"
     },
-    "ST": {
+    "TMA": {
       "name": "Scottish",
       "colour": "#309df0"
     },
-    "SA": {
+    "ANT": {
       "name": "Scottish",
       "colour": "#3063f0"
     },
@@ -29586,29 +29616,29 @@
     "PCNE": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "MAN","MAN-NE" ], "type": "CTR","frequency": "135.715","callsign": "Scottish Control", "comment": "MAN N" },
     "PCSE": { "colours": [{ "hex": "#36d6d9" }], "pre": [ "MAN","MAN-SE" ], "type": "CTR","frequency": "134.430","callsign": "Scottish Control", "comment": "STAFA" },
     "PCW": { "colours": [{ "hex": "#368dd9" }], "pre": [ "MAN","MAN-W" ], "type": "CTR","frequency": "128.055","callsign": "Scottish Control", "comment": "WAL" },
-    "S": { "colours": [{ "hex": "#db0d9d" }], "pre": [ "SCO" ], "type": "CTR","frequency": "135.530","callsign": "Scottish Control", "comment": "Bandbox" },
-    "SL": { "colours": [{ "hex": "#e546ba" }], "pre": [ "SCO","STC","SCO-L","STC-L" ], "type": "CTR","frequency": "124.500","callsign": "Scottish Control", "comment": "Tay - conflicts with SCL_TAY  " },
-    "SE": { "colours": [{ "online": ["SS"], "hex": "#e66a83" }, { "hex": "#e54a89" }], "pre": [ "SCO","SCO-E" ], "type": "CTR","frequency": "121.325","callsign": "Scottish Control", "comment": "Humber" },
-    "SS": { "colours": [{ "online": ["SH"], "hex": "#e54889" }, { "hex": "#e54a89" }], "pre": [ "SCO","SCO-S" ], "type": "CTR","frequency": "134.775","callsign": "Scottish Control", "comment": "Tyne" },
-    "TAY": { "colours": [{ "hex": "#e546ba" }], "pre": [ "SCL", "SCL-TAY" ], "type": "CTR","frequency": "124.500","callsign": "Scottish Control", "comment": "Tay - conflicts with SCO_L" },
-    "SH": { "colours": [{ "hex": "#e54a89" }], "pre": [ "SCO","SCO-H" ], "type": "CTR","frequency": "129.925","callsign": "Scottish Control", "comment": "Not Real?" },
-    "SMN": { "colours": [{ "hex": "#e54889" }], "pre": [ "SCO","SCO-S" ], "type": "CTR","frequency": "132.490","callsign": "Scottish Control", "comment": "Montrose N" },
-    "SMS": { "colours": [{ "hex": "#e54889" }], "pre": [ "SCO","SCO-S" ], "type": "CTR","frequency": "126.930","callsign": "Scottish Control", "comment": "Montrose S" },
+    "S": { "colours": [{ "hex": "#db0d9d" }], "pre": [ "SCO" ], "type": "CTR","frequency": "125.680","callsign": "Scottish Control", "comment": "Bandbox (Rathlin E)" },
+    "SE": { "colours": [{ "online": ["SS"], "hex": "#e66a83" }, { "hex": "#e54a89" }], "pre": [ "SCO","SCO-E" ], "type": "CTR","frequency": "134.855","callsign": "Scottish Control", "comment": "East (Fake Moray L)" },
+    "SS": { "colours": [{ "online": ["HUM"], "hex": "#e54889" }, { "hex": "#e54a89" }], "pre": [ "SCO","SCO-S" ], "type": "CTR","frequency": "134.775","callsign": "Scottish Control", "comment": "Tyne" },
+    "HUM": { "colours": [{ "hex": "#e54a89" }], "pre": [ "SCO","SCO-HUM" ], "type": "CTR","frequency": "121.325","callsign": "Scottish Control", "comment": "Humber" },
     "SN": { "colours": [{ "hex": "#db0d3f" }], "pre": [ "SCO","SCO-N" ], "type": "CTR","frequency": "129.225","callsign": "Scottish Control", "comment": "Moray High" },
     "SML": { "colours": [{ "hex": "#db385f" }], "pre": [ "SCO","SCO-N" ], "type": "CTR","frequency": "134.850","callsign": "Scottish Control", "comment": "Moray Low" },
-    "SEH": { "colours": [{ "hex": "#e50087" }], "pre": [ "SCO","SCO-EH" ], "type": "CTR","frequency": "133.680","callsign": "Scottish Control", "comment": "Hebrides High" },
-    "SHC": { "colours": [{ "online": ["SEH"], "hex": "#e643b8" }, { "hex": "#e50087" }], "pre": [ "SCO","SCO-HC" ], "type": "CTR","frequency": "128.675","callsign": "Scottish Control", "comment": "Hebrides Low" },
-    "SW": { "colours": [{ "hex": "#e53fda" }], "pre": [ "SCO","SCO-W" ], "type": "CTR","frequency": "132.730","callsign": "Scottish Control", "comment": "Central" },
-    "SC": { "colours": [{ "hex": "#d42886" }], "pre": [ "SCO","SCO-C" ], "type": "CTR","frequency": "127.275","callsign": "Scottish Control", "comment": "WCoast" },
-    "SR": { "colours": [{ "hex": "#c941f5" }], "pre": [ "SCO","SCO-R" ], "type": "CTR","frequency": "129.100","callsign": "Scottish Control", "comment": "Rathlin" },
-    "SRE": { "colours": [{ "hex": "#ad61f5" }], "pre": [ "SCO","SCO-RE" ], "type": "CTR","frequency": "125.680","callsign": "Scottish Control", "comment": "Rathlin E" },
-    "SA": { "colours": [{ "hex": "#3063F0" }], "pre": [ "STC","STC-A" ], "type": "CTR","frequency": "123.775","callsign": "Scottish Control", "comment": "Antrim" },
-    "SWD": { "colours": [{ "online": ["SW"], "hex": "#c500e0" }, { "hex": "#e517d0" }], "pre": [ "SCO","SCO-WD" ], "type": "CTR","frequency": "133.875","callsign": "Scottish Control", "comment": "Sco E Sby" },
-    "SD": { "colours": [{ "hex": "#c500e0" }], "pre": [ "SCO","SCO-D" ], "type": "CTR","frequency": "135.855","callsign": "Scottish Control", "comment": "DCS N" },
-    "ST": { "colours": [{ "hex": "#2f88e0" }], "pre": [ "STC" ], "type": "CTR","frequency": "126.300","callsign": "Scottish Control", "comment": "TLA S" },
-    "STW": { "colours": [{ "hex": "#309df0" }], "pre": [ "STC","STC-W" ], "type": "CTR","frequency": "124.825","callsign": "Scottish Control", "comment": "Galloway S" },
-    "STE": { "colours": [{ "hex": "#3063f0" }], "pre": [ "STC","STC-E" ], "type": "CTR","frequency": "130.975","callsign": "Scottish Control", "comment": "TLA N" },
-    "STWN": { "colours": [{ "hex": "#6fc8f0" }], "pre": [ "STC" ], "type": "CTR","frequency": "121.375","callsign": "Scottish Control", "comment": "Galloway N" },
+    "HEB": { "colours": [{ "hex": "#e50087" }], "pre": [ "SCO","SCO-HEB" ], "type": "CTR","frequency": "133.680","callsign": "Scottish Control", "comment": "Hebrides High" },
+    "SHC": { "colours": [{ "online": ["HEB"], "hex": "#e643b8" }, { "hex": "#e50087" }], "pre": [ "SCO","SCO-HC" ], "type": "CTR","frequency": "128.675","callsign": "Scottish Control", "comment": "Hebrides Low" },
+    "SW": { "colours": [{ "hex": "#e53fda" }], "pre": [ "SCO","SCO-W" ], "type": "CTR","frequency": "132.730","callsign": "Scottish Control", "comment": "West (Central)" },
+    "CEN": { "colours": [{ "hex": "#d42886" }], "pre": [ "SCO","SCO-CEN" ], "type": "CTR","frequency": "127.275","callsign": "Scottish Control", "comment": "Central (WCoast)" },
+    "RAT": { "colours": [{ "hex": "#c941f5" }], "pre": [ "SCO","SCO-RAT" ], "type": "CTR","frequency": "129.100","callsign": "Scottish Control", "comment": "Rathlin" },
+    "SWB": { "colours": [{ "online": ["SW"], "hex": "#c500e0" }, { "hex": "#e517d0" }], "pre": [ "SCO","SCO-WB" ], "type": "CTR","frequency": "133.875","callsign": "Scottish Control", "comment": "Sco E Sby" },
+    "GRP": { "colours": [{ "hex": "#e54889" }], "pre": [ "SCO","SCO-GRP" ], "type": "CTR","frequency": "132.490","callsign": "Scottish Control", "comment": "Grampian" },
+    "BDS": { "colours": [{ "hex": "#c500e0" }], "pre": [ "SCO","SCO-BDS" ], "type": "CTR","frequency": "135.530","callsign": "Scottish Control", "comment": "Borders" },
+    "PEN": { "colours": [{ "hex": "#e54889" }], "pre": [ "SCO","SCO-PEN" ], "type": "CTR","frequency": "126.930","callsign": "Scottish Control", "comment": "Pennine" },
+    "SOL": { "colours": [{ "hex": "#e54889" }], "pre": [ "SCO","SCO-SOL" ], "type": "CTR","frequency": "135.855","callsign": "Scottish Control", "comment": "Solway" },
+    "SCL": { "colours": [{ "hex": "#e546ba" }], "pre": [ "SCL" ], "type": "CTR","frequency": "121.375","callsign": "Scottish Control", "comment": "Lower (Galloway N)" },
+    "TAY": { "colours": [{ "hex": "#e546ba" }], "pre": [ "SCL", "SCL-TAY" ], "type": "CTR","frequency": "124.500","callsign": "Scottish Control", "comment": "Tay" },
+    "GTA": { "colours": [{ "hex": "#6fc8f0" }], "pre": [ "SCL", "SCL-GTA" ], "type": "CTR","frequency": "123.775","callsign": "Scottish Control", "comment": "TMA and Antrim (Fake)" },
+    "ANT": { "colours": [{ "hex": "#3063F0" }], "pre": [ "SCL", "SCL-ANT" ], "type": "CTR","frequency": "123.775","callsign": "Scottish Control", "comment": "Antrim" },
+    "TMA": { "colours": [{ "hex": "#2f88e0" }], "pre": [ "SCL", "SCL-TMA" ], "type": "CTR","frequency": "126.300","callsign": "Scottish Control", "comment": "TMA (TLA S)" },
+    "GAL": { "colours": [{ "hex": "#309df0" }], "pre": [ "SCL", "SCL-GAL" ], "type": "CTR","frequency": "124.825","callsign": "Scottish Control", "comment": "Galloway (Galloway S)" },
+    "TLA": { "colours": [{ "hex": "#3063f0" }], "pre": [ "SCL", "SCL-TLA" ], "type": "CTR","frequency": "130.975","callsign": "Scottish Control", "comment": "Talla (TLA N)" },
     "SI": { "pre": [ "EGPX","EGPX-I","SCO","SCO-I" ], "type": "CTR","frequency": "119.875","callsign": "Scottish Information", "comment": "Sco Info" },
     "VV": { "pre": [ "EGVV" ], "type": "CTR","frequency": "133.900","callsign": "Swanwick Mil" },
     "VVN": { "pre": [ "EGVV","EGVV-N" ], "type": "CTR","frequency": "136.375","callsign": "Swanwick Mil" },
@@ -30577,11 +30607,14 @@
         "topdown": [
             "PHF",
             "PHR",
-            "STE",
-            "ST",
-            "SL",
-            "SD",
-            "SWD",
+            "TLA",
+            "TMA",
+            "GTA",
+            "SCL",
+            "SOL",
+            "PEN",
+            "BDS",
+            "SWB",
             "SS",
             "S"
         ]
@@ -30596,11 +30629,14 @@
         "topdown": [
             "PFF",
             "PFR",
-            "STW",
-            "ST",
-            "SL",
-            "SD",
-            "SWD",
+            "GAL",
+            "TMA",
+            "GTA",
+            "SCL",
+            "SOL",
+            "PEN",
+            "BDS",
+            "SWB",
             "SS",
             "S"
         ]
@@ -30615,11 +30651,14 @@
         "topdown": [
             "PKF",
             "PKR",
-            "STW",
-            "ST",
-            "SL",
-            "SD",
-            "SWD",
+            "GAL",
+            "TMA",
+            "GTA",
+            "SCL",
+            "SOL",
+            "PEN",
+            "BDS",
+            "SWB",
             "SS",
             "S"
         ]
@@ -30631,10 +30670,10 @@
         -7.366389
       ],
       "topdown": [
-        "SL",
-        "SC",
+        "SCL",
+        "CEN",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ]
     },
@@ -30645,10 +30684,10 @@
         -7.161111
       ],
       "topdown": [
-        "SL",
-        "SR",
+        "SCL",
+        "RAT",
         "SW",
-        "SWD",
+        "SWB",
         "S"
       ]
     },
@@ -30662,12 +30701,12 @@
         "topdown": [
             "AAF",
             "AAR",
-            "SA",
-            "SL",
-            "SRE",
-            "SR",
+            "ANT",
+            "GTA",
+            "SCL",
+            "RAT",
             "SW",
-            "SWD",
+            "SWB",
             "S"
         ]
     },
@@ -30695,7 +30734,7 @@
             "PDF",
             "PDR",
             "TAY",
-            "SL",
+            "SCL",
             "SS",
             "SE",
             "S"
@@ -30709,7 +30748,7 @@
         ],
         "topdown": [
             "TAY",
-            "SL",
+            "SCL",
             "SS",
             "SE",
             "S"
@@ -30722,7 +30761,7 @@
             -4.05005
         ],
         "topdown": [
-            "SL",
+            "SCL",
             "SN",
             "SE",
             "S"
@@ -30735,7 +30774,7 @@
             -2.905336
         ],
         "topdown": [
-            "SL",
+            "SCL",
             "SN",
             "SE",
             "S"
@@ -30748,7 +30787,7 @@
             -1.295556
         ],
         "topdown": [
-            "SL",
+            "SCL",
             "SN",
             "SE",
             "S"
@@ -30766,7 +30805,7 @@
             -3.093056
         ],
         "topdown": [
-            "SL",
+            "SCL",
             "SN",
             "SE",
             "S"
@@ -30779,8 +30818,8 @@
           -6.328889
       ],
       "topdown": [
-          "SL",
-          "SEH",
+          "SCL",
+          "HEB",
           "SN",
           "SE",
           "S"
