@@ -289,7 +289,7 @@
     {
       "id": "Iraklion",
       "group": "RAD",
-      "owner": ["HER", "AC19", "AC5", "AC2", "AC1"],
+      "owner": ["HER", "AC5", "AC2", "AC1"],
       "sectors": [
         {
           "max": 154,
@@ -867,7 +867,7 @@
       ]
     },
     {
-      "id": "Kavos",
+      "id": "Kavos Low",
       "group": "LGGG",
       "owner": ["AC13", "AC19", "AC2", "AC1"],
       "sectors": [
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "id": "Kavos",
+      "id": "Kavos Low",
       "group": "LGGG",
       "owner": ["AC13", "AC19", "AC2", "AC1", "fss/EUCSW"],
       "sectors": [
@@ -966,7 +966,7 @@
       ]
     },
     {
-      "id": "Kavos",
+      "id": "Kavos Upper",
       "group": "LGGG",
       "owner": ["AC13", "AC19", "AC9", "AC20", "AC2", "AC1", "fss/EUCSW"],
       "sectors": [
@@ -3247,7 +3247,7 @@
       ]
     },
     {
-      "id": "Sitia",
+      "id": "Sitia Low",
       "group": "LGGG",
       "owner": ["AC19", "AC5", "AC2", "AC1"],
       "sectors": [
@@ -3318,7 +3318,7 @@
       ]
     },
     {
-      "id": "Sitia",
+      "id": "Sitia Low",
       "group": "LGGG",
       "owner": ["AC19", "AC5", "AC2", "AC1", "fss/EUCSW"],
       "sectors": [
@@ -3350,7 +3350,7 @@
       ]
     },
     {
-      "id": "Sitia",
+      "id": "Sitia Upper",
       "group": "LGGG",
       "owner": ["AC19", "AC15", "AC9", "AC20", "AC5", "AC2", "AC1", "fss/EUCSW"],
       "sectors": [
@@ -4575,7 +4575,7 @@
       "LGHI": { "callsign": "Chios", "coord": [38.343333, 26.140555], "topdown": ["AC16", "AC14", "AC4", "AC1"] },
       "LGIK": { "callsign": "Ikaria", "coord": [37.683611, 26.347777], "default": false, "topdown": ["AC2", "AC1"] },
       "LGIO": { "callsign": "Ioannina", "coord": [39.697222, 20.821944], "topdown": ["AC6", "AC1"] },
-      "LGIR": { "callsign": "Kazantzakis", "coord": [35.339722, 25.180277], "default": false, "topdown": ["HER", "AC19", "AC5", "AC2", "AC1"] },
+      "LGIR": { "callsign": "Kazantzakis", "coord": [35.339722, 25.180277], "default": false, "topdown": ["HER", "AC5", "AC2", "AC1"] },
       "LGKA": { "callsign": "Kastoria", "coord": [40.446388, 21.281111], "default": false, "topdown": ["AC4", "AC1"] },
       "LGKC": { "callsign": "Kithira", "coord": [36.274166, 23.016666], "default": false, "topdown": ["KLX", "AC11", "AC7", "AC6", "AC1"] },
       "LGKF": { "callsign": "Kefallinia", "coord": [38.12, 20.500555], "default": false, "topdown": ["AAD", "AC11", "AC7", "AC6", "AC1"] },
@@ -4584,9 +4584,9 @@
       "LGKM": { "callsign": "Lydia", "coord": [40.972777, 24.341666], "default": false, "topdown": ["KVA", "AC14", "AC4", "AC1"] },
       "LGKN": { "callsign": "Kotroni", "coord": [38.138611, 23.952777], "default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGKO": { "callsign": "Ippokratis", "coord": [36.794722, 27.091111], "default": false, "topdown": ["KGS", "AC2", "AC1"] },
-      "LGKP": { "callsign": "Karpathos", "coord": [35.421111, 27.145833], "default": false, "topdown": ["HER", "AC19", "AC5", "AC2", "AC1"] },
+      "LGKP": { "callsign": "Karpathos", "coord": [35.421111, 27.145833], "default": false, "topdown": ["HER", "AC5", "AC2", "AC1"] },
       "LGKR": { "callsign": "Kerkira", "coord": [39.601944, 19.912222], "default": false, "topdown": ["CFU", "AC6", "AC1"] },
-      "LGKS": { "callsign": "Kassos", "coord": [35.421388, 26.91], "default": false, "topdown": ["HER", "AC19", "AC5", "AC2", "AC1"] },
+      "LGKS": { "callsign": "Kassos", "coord": [35.421388, 26.91], "default": false, "topdown": ["HER", "AC5", "AC2", "AC1"] },
       "LGKV": { "callsign": "Megas Alexandros", "coord": [40.913888, 24.619722], "default": false, "topdown": ["KVA", "AC14", "AC4", "AC1"] },
       "LGKY": { "callsign": "Kalymnos", "coord": [36.963333, 26.940555], "default": false, "topdown": ["KGS", "AC2", "AC1"] },
       "LGKZ": { "callsign": "Kozani", "coord": [40.285833, 21.841666], "default": false, "topdown": ["LRA", "AC4", "AC1"] },
@@ -4609,11 +4609,11 @@
       "LGSM": { "callsign": "Samos", "coord": [37.689166, 26.912222], "topdown": ["AC2", "AC1"] },
       "LGSO": { "callsign": "Syros", "coord": [37.423055, 24.95],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
       "LGSR": { "callsign": "Santorini", "coord": [36.399166, 25.479166], "topdown": ["AC5", "AC2", "AC1"] },
-      "LGST": { "callsign": "Sitia", "coord": [35.216111, 26.101111], "default":false, "topdown": ["HER", "AC19", "AC5", "AC2", "AC1"] },
+      "LGST": { "callsign": "Sitia", "coord": [35.216111, 26.101111], "default":false, "topdown": ["HER", "AC5", "AC2", "AC1"] },
       "LGSV": { "callsign": "Stefanovikion", "coord": [39.475, 22.783333], "default": false, "topdown": ["VOL", "AC4", "AC1"] },
       "LGSY": { "callsign": "Skiros", "coord": [38.9675, 24.4875], "topdown": ["AC4", "AC1"] },
       "LGTG": { "callsign": "Tanagra", "coord": [38.339722, 23.564722], "topdown": ["AC4", "AC1"] },
-      "LGTL": { "callsign": "Kasteli", "coord": [35.191944, 25.326944], "default": false, "topdown": ["HER", "AC19", "AC5", "AC2", "AC1"] },
+      "LGTL": { "callsign": "Kasteli", "coord": [35.191944, 25.326944], "default": false, "topdown": ["HER", "AC5", "AC2", "AC1"] },
       "LGTP": { "callsign": "Tripolis", "coord": [37.530555, 22.403333], "default": false, "topdown": ["AC11", "AC7", "AC6", "AC1"] },
       "LGTS": { "callsign": "Makedonia", "coord": [40.519722, 22.970916], "default": false, "topdown": ["SKG", "AC4", "AC1"] },
       "LGTT": { "callsign": "Tatoi", "coord": [38.108611, 23.783333],"default": false, "topdown": ["DEP1", "ARR2", "AC5", "AC2", "AC1"] },
