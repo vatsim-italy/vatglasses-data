@@ -27432,7 +27432,7 @@
         "TSW"
       ],
       "owner": [
-        "SOL",
+        "SOR",
         "HIR",
         "LHW",
         "OTMET",
@@ -27712,7 +27712,7 @@
       ],
       "owner": [
         "HIR",
-        "SOL",
+        "SOR",
         "LHW",
         "OTMET",
         "LH",
@@ -29890,7 +29890,7 @@
     "NSF": { "pre": [ "EGNS" ], "type": "APP","frequency": "120.855","callsign": "Ronaldsway Radar" },
     "NST": { "pre": [ "EGNS" ], "type": "TWR","frequency": "118.905","callsign": "Ronaldsway Tower" },
     "NSA": { "pre": [ "EGNS" ], "type": "APP","frequency": "135.905","callsign": "Ronaldsway Approach" },
-    "SOL": { "pre": [ "EGHI","SOLENT","SOL" ], "type": "APP","frequency": "120.230","callsign": "Solent Radar" },
+    "SOR": { "pre": [ "EGHI","SOLENT","SOL" ], "type": "APP","frequency": "120.230","callsign": "Solent Radar" },
     "HIR": { "pre": [ "EGHI" ], "type": "APP","frequency": "122.730","callsign": "Southampton Radar" },
     "HIT": { "pre": [ "EGHI" ], "type": "TWR","frequency": "118.205","callsign": "Southampton Tower" },
     "HHR": { "pre": [ "EGHH" ], "type": "APP", "frequency": "119.480", "callsign": "Bournemouth Radar" },
