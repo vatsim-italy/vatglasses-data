@@ -5052,7 +5052,7 @@
         {
             "id": "Jakarta",
             "group": "FIR",
-            "owner": ["WIIF_N", "WIIF", "fss/ASEAN", "fss/ASEAN"],
+            "owner": ["ws/IF", "WIIF_N", "WIIF", "fss/ASEAN", "fss/ASEAN"],
             "sectors": [
                 {
                     "points": [
@@ -5069,7 +5069,7 @@
         {
             "id": "Jakarta",
             "group": "FIR",
-            "owner": ["WIIF_W", "WIIF", "fss/ASEAN", "fss/ASEAN"],
+            "owner": ["ws/IF", "WIIF_W", "WIIF", "fss/ASEAN", "fss/ASEAN"],
             "sectors": [
                 {
                     "points": [
@@ -5093,7 +5093,7 @@
         {
             "id": "Jakarta",
             "group": "FIR",
-            "owner": ["WIIF_E", "WIIF", "fss/ASEAN", "fss/ASEAN"],
+            "owner": ["ws/IF", "WIIF_E", "WIIF", "fss/ASEAN", "fss/ASEAN"],
             "sectors": [
                 {
                     "points": [
